@@ -1,6 +1,7 @@
 # vanlife-pi
-Various Raspberry Pi's I plan to use in my converted bus.<br />
+I have various Raspberry Pi's I plan to use in my converted bus.<br />
 Some will be for luxury, others for security and data logging.<br />
+Here is where I collect and gather all of the scripts and tools I am using as well as other tools needed.<br />
 
 # Who am I?
 Forty something Icelandic man who moved into a converted MB Sprinter 412d with his wife and kitty.<br />
